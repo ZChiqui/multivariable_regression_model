@@ -47,7 +47,3 @@ Open `Multivariable_Regression_and_Valuation_Model_(start) (1).ipynb` and run ce
 - Include interaction terms or non‑linear transforms for key predictors.
 - Calibrate business‑friendly KPIs (e.g., price deltas per room or per commute distance quartile).
 
-## Notes
-- The notebook narrative has been rewritten for a professional portfolio tone without changing the underlying code.
-- Plotly is optional for interactive charts; manage versions via your environment if needed.
-
